@@ -1,4 +1,2 @@
-# Define the variable board below.
-board
-board = Array.new
+# Define the variable board belo
 board = [" "," "," "," "," "," "," "," "," "]
